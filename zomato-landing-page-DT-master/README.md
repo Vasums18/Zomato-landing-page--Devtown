@@ -3,6 +3,6 @@
 New Msg has to be added from Colaborartor B
 
 Zomato-landing-page-DT
-rohan1917
+Vasu M S
 
 This is a new installation Setup Branch.
